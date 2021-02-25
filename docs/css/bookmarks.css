@@ -3,3 +3,12 @@ Title: CSS for Bookmarks.html file
 Author: Gordon Inman
 Date: 2/16/2021
 */
+
+/* Import any desired web fonts, etc. */
+
+/* Reset browser defaults */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+/* Page Design - Use Flexbox and/or Grid to layout */
